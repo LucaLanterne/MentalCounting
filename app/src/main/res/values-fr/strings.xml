@@ -2,4 +2,8 @@
 <resources>
     <string name="play">Jouer</string>
     <string name="score">Résultat</string>
+    <string name="home">Menu</string>
+    <string name="game">Jeu</string>
+    <string name="incorrect">Incorrecte</string>
+    <string name="submit">Valider</string>
 </resources>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/maths"
+    android:background="@drawable/_9_798864_purple_and_blue_iphone"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -25,7 +25,7 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/play_button"
+                android:id="@+id/play_homeButton"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@android:color/holo_orange_dark"
@@ -36,7 +36,7 @@
                 android:layout_height="10dp" />
 
             <Button
-                android:id="@+id/score_button"
+                android:id="@+id/score_homeButton"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@android:color/holo_orange_dark"
