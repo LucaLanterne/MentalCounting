@@ -4,6 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ScoreActivity">
+    android:background="@drawable/_9_798864_purple_and_blue_iphone"
+    tools:context=".score">
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="90dp"
+        android:layout_height="89dp"
+        android:background="@drawable/_0634"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="4dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="434dp"
+        android:layout_height="895dp"
+        app:srcCompat="@drawable/tableaufinal"
+        tools:layout_editor_absoluteX="-12dp"
+        tools:layout_editor_absoluteY="-127dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
