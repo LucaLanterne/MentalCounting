@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/lucal/OneDrive/Bureau/Annee2/MentalCounting/app/src/main/res/drawable/custom_button.xml" value="0.27760416666666665" />
-        <entry key="..\:/Users/lucal/OneDrive/Bureau/Annee2/MentalCounting/app/src/main/res/layout/activity_game.xml" value="0.264" />
+        <entry key="..\:/Users/lucal/OneDrive/Bureau/Annee2/MentalCounting/app/src/main/res/layout/activity_game.xml" value="0.25" />
         <entry key="..\:/Users/lucal/OneDrive/Bureau/Annee2/MentalCounting/app/src/main/res/layout/activity_game_bar.xml" value="0.25" />
         <entry key="..\:/Users/lucal/OneDrive/Bureau/Annee2/MentalCounting/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/lucal/OneDrive/Bureau/Annee2/MentalCounting/app/src/main/res/layout/activity_score.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/lucal/OneDrive/Bureau/Annee2/MentalCounting/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/lucal/OneDrive/Bureau/Annee2/MentalCounting/app/src/main/res/menu/submit_menu.xml" value="0.264" />
       </map>
     </option>
   </component>

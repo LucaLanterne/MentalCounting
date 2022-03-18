@@ -4,6 +4,11 @@
     <string name="score">Résultat</string>
     <string name="home">Menu</string>
     <string name="game">Jeu</string>
-    <string name="incorrect">Incorrecte</string>
+    <string name="incorrect">Mauvaise réponse /!\ :</string>
     <string name="submit">Valider</string>
+    <string name="reset">Effacer</string>
+    <string name="previous">Précédent</string>
+    <string name="next">Suivant</string>
+    <string name="clean">Effacer</string>
+    <string name="correct">Bonne réponse !</string>
 </resources>

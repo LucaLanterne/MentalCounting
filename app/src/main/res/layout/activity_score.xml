@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/_9_798864_purple_and_blue_iphone"
-    tools:context=".score">
+    tools:context="fr.llanterne.mentalcounting.activities.ScoreActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -34,20 +34,12 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/home_scoreButton"
+                android:id="@+id/previous_scoreButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:backgroundTint="@android:color/holo_orange_dark"
-                android:text="@string/home" />
-
-            <Button
-                android:id="@+id/game_scoreButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:backgroundTint="@android:color/holo_orange_dark"
-                android:text="@string/game" />
+                android:text="@string/previous" />
         </LinearLayout>
     </LinearLayout>
 

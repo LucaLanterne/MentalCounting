@@ -1,10 +1,12 @@
-package fr.llanterne.mentalcounting;
+package fr.llanterne.mentalcounting.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
+
+import fr.llanterne.mentalcounting.R;
 
 public class MainActivity extends AppCompatActivity {
 

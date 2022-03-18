@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MentalCounting">
         <activity
-            android:name=".ScoreActivity"
+            android:name="fr.llanterne.mentalcounting.activities.ScoreActivity"
             android:exported="false" />
         <activity
-            android:name=".GameActivity"
+            android:name="fr.llanterne.mentalcounting.activities.GameActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="fr.llanterne.mentalcounting.activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

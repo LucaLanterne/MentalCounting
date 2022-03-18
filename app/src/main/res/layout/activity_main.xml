@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/_9_798864_purple_and_blue_iphone"
-    tools:context=".MainActivity">
+    tools:context="fr.llanterne.mentalcounting.activities.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

@@ -4,6 +4,12 @@
     <string name="score">Score</string>
     <string name="home">Home</string>
     <string name="game">Game</string>
-    <string name="incorrect">Incorrect</string>
+    <string name="incorrect">Wrong /!\ :</string>
     <string name="submit">Submit</string>
+    <string name="reset">reset</string>
+    <string name="previous">previous</string>
+    <string name="next">Next</string>
+    <string name="clean">Clean</string>
+    <string name="operation_template" translatable="false">%1$d %2$s %3$d</string>
+    <string name="correct">Good answer !</string>
 </resources>
